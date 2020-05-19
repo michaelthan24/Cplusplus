@@ -1,0 +1,24 @@
+/*Michael Than
+**Partner: 
+**cs2560_02 
+**Lab 2
+**
+*/
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main() { 
+   int triNum=1;
+   ifstream triangleFile;
+   triangleFile.open("triangles.dat");
+   while(!triangleFile.eof()) {
+   triangleFile>>base>>height;
+   cout<< "triangle"<<triNum<<" b= "<<base<<"height+ "<<height<<" area= "<<base*height<<endl;
+   }
+   traingleFile.close();
+
+
+}
+

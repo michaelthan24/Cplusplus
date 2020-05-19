@@ -1,0 +1,13 @@
+#include "book.h"
+#include <fstream>
+using namespace std;
+
+
+int read (string filename, Book books[]) {
+   int numBooks;
+   while (!filename.eoi()) {
+   
+
+   {   
+
+}

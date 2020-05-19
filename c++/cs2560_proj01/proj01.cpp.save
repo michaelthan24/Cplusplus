@@ -1,0 +1,14 @@
+#include<iostream>
+#include<fstream>
+using namespace std;
+
+int main (int argc, char** argv) {
+   if (argc=1) { 
+      cout << ".//proj01 <inputfile> find <id>" << endl;
+      cout << ".//proj01 <inputfile> list" << endl;
+      return 0;
+   } //end if
+   if ( argc = 4 && (strcmp(arv[2],"find") = 0)) {
+   
+   }
+}

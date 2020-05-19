@@ -1,0 +1,17 @@
+Script started on 2019-02-04 19:36:59-08:00
+]0;michaelthan@costello:~[01;32mmichaelthan@costello[01;34m ~ $[00m ./lab01
+Enter amount for item 1
+10
+Enter amount for item 2
+20
+
+Item 1:  $  10.00
+Item 2:  $  20.00
+
+Sub total: $  30.00
+Tax: $   2.48
+Total: $  32.48
+]0;michaelthan@costello:~[01;32mmichaelthan@costello[01;34m ~ $[00m exit
+exit
+
+Script done on 2019-02-04 19:37:22-08:00
